@@ -1,1 +1,1 @@
-Bilding a CNN deep learning Modell for skin cancer classification
+Building a CNN deep learning Modell for skin cancer classification
