@@ -1,4 +1,4 @@
-## Building a CNN deep learning Modell for skin cancer classification
+## Building a CNN deep learning Modell for binary skin cancer classification
 # The datasets with 1094 skin cancer Images is from: https://www.isic-archive.com/
 
 
