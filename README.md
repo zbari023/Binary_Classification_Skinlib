@@ -2,7 +2,7 @@
 
 ![](skin_img.png)
 
-![](bengin_cancer.png)
+![](bengin_cancer.jpg)
 
-![](Cancer.png)
+![](Cancer.jpg)
 
